@@ -1,8 +1,9 @@
 # hyperterm-oceanic-next
 
+![](screenshot.png)
 
 ## Install
 
-Add `hyperterm-oceanic-next` to the plugins list in your `~/.hyperterm.js` config file.
+Add `oceanic-next-hyperterm` to the plugins list in your `~/.hyperterm.js` config file.
 
 
