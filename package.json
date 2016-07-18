@@ -1,0 +1,19 @@
+{
+  "name": "oceanic-next-hyperterm",
+  "version": "1.0.0",
+  "description": "Oceanic Next for Hyperterm",
+  "license": "MIT",
+  "repository": "mhartington/oceanic-next-hyperterm",
+  "author": {
+    "name": "Mike Hartington",
+    "email": "mhartington@gmail.com",
+    "url": "mhartington.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
